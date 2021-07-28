@@ -1,7 +1,12 @@
 # Template
 Base template for all repositories, what vscode addons, what programs, file hierarchy etc...
 
-## VSCODE
+## Workstation
+- Visual Studio Code
+- Cmake
+- Doxygen
+
+## Visual Studio Code
 - Doxygen Documentation Generator - Christoph Schloser
 - Tabnine AI Code Completion, autocomplete Java... - TabNine
 - Vim - vscodevim
