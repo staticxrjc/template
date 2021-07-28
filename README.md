@@ -12,4 +12,4 @@ Base template for all repositories, what vscode addons, what programs, file hier
 - Vim - vscodevim
 - CMake Tools - Microsoft
 - CMake - twxs
-- C\C+ - Microsoft
+- C\C+ - Microsoft 
