@@ -13,3 +13,5 @@ Base template for all repositories, what vscode addons, what programs, file hier
 - CMake Tools - Microsoft
 - CMake - twxs
 - C\C+ - Microsoft 
+- Docker - Microsoft
+- Material Icon Theme - Philipp Kief
