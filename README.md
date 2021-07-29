@@ -16,4 +16,5 @@ Base template for all repositories, what vscode addons, what programs, file hier
 - Docker - Microsoft
 - Material Icon Theme - Philipp Kief
 - GitHub Pull Requests and... - GitHub
+- Markdown Preview Enhanced - Yiwi Wang
 
