@@ -15,3 +15,4 @@ Base template for all repositories, what vscode addons, what programs, file hier
 - C\C+ - Microsoft 
 - Docker - Microsoft
 - Material Icon Theme - Philipp Kief
+- GitHub Pull Requests and... - GitHub
