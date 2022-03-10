@@ -1,20 +1,20 @@
-# Template
-Base template for all repositories, what vscode addons, what programs, file hierarchy etc...
+# Introduction 
+TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
-## Workstation
-- Visual Studio Code
-- Cmake
-- Doxygen
+# Getting Started
+TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+1.	Installation process
+2.	Software dependencies
+3.	Latest releases
+4.	API references
 
-## Visual Studio Code
-- Doxygen Documentation Generator - Christoph Schloser
-- Tabnine AI Code Completion, autocomplete Java... - TabNine
-- Vim - vscodevim
-- CMake Tools - Microsoft
-- CMake - twxs
-- C\C+ - Microsoft 
-- Docker - Microsoft
-- Material Icon Theme - Philipp Kief
-- GitHub Pull Requests and... - GitHub
-- Markdown Preview Enhanced - Yiwi Wang
+# Build and Test
+TODO: Describe and show how to build your code and run the tests. 
 
+# Contribute
+TODO: Explain how other users and developers can contribute to make your code better. 
+
+If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
+- [ASP.NET Core](https://github.com/aspnet/Home)
+- [Visual Studio Code](https://github.com/Microsoft/vscode)
+- [Chakra Core](https://github.com/Microsoft/ChakraCore)
